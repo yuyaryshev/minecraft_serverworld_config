@@ -16,7 +16,7 @@
 	enabled = true
 	#The maximum amount of logs one harvest is allowed to do
 	#Range: 0 ~ 1024
-	max_harvesting_count = 128
+	max_harvesting_count = 1024
 
 	[tree_harvesting.dynamic_breaking_speed]
 		#If bigger trees should be harder to break
